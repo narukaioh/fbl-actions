@@ -1,1 +1,2 @@
-Esse modulo ajudará aos jogadores a darem visibilidade sobre as ações que fizerem durante as batalhas do sistema Forbidden Lands.
+
+This module is based on Year Zero Action, and aims to manage the existing actions in Forbidden Lands.
