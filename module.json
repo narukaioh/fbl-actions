@@ -1,0 +1,26 @@
+{
+  "name": "fbl-actions",
+  "title": "Forbidden Lands Actions",
+  "description": "Module to track actions on Forbidden Lands system.",
+  "version": "1.0.0",
+  "library": "false",
+  "manifestPlusVersion": "1.2.0",
+  "minimumCoreVersion": "0.8.8",
+  "compatibleCoreVersion": "0.8.8",
+  "author": "Ju Dantas (narukaioh)",
+  "packs": [
+    {
+      "name": "fbl-actions",
+      "label": "Forbidden Lands Actions",
+      "path": "./packs/fbl-actions.db",
+      "entity": "Macro"
+    }
+  ],
+  "conflicts": [],
+  "esmodules": [
+    "/src/fbl-action.js"
+  ],
+  "url": "This is auto replaced",
+  "manifest": "This is auto replaced",
+  "download": "This is auto replaced"
+}
