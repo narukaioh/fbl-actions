@@ -20,7 +20,7 @@
   "esmodules": [
     "/src/fbl-action.js"
   ],
-  "url": "This is auto replaced",
-  "manifest": "This is auto replaced",
-  "download": "This is auto replaced"
+  "url": "https://github.com/narukaioh/fbl-actions",
+  "manifest": "https://github.com/narukaioh/fbl-actions/blob/main/module.json",
+  "download": "https://github.com/narukaioh/fbl-actions/archive/refs/heads/main.zip"
 }
